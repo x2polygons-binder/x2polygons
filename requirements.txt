@@ -1,7 +1,8 @@
-x2polygons==0.171
-geopandas==0.13.2
-shapely==2.0.1
-pandas==2.0.3
-numpy==1.23.5
-geopy==2.1.0
-watermark==2.4.3
+x2polygons: 0.171
+geopandas : 0.13.2
+shapely   : 2.0.1
+seaborn   : 0.10.1
+pandas    : 2.0.3
+numpy     : 1.23.5
+geopy     : 2.1.0
+watermark : 2.4.3
